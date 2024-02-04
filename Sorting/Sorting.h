@@ -39,7 +39,7 @@ class Sorting{
     
     public:
         void resetCounter();
-        void random(); //สุ่ม data ต้องดึง stdlib & time
+        void random();
         void backup();
         void restore();
         void diaplayswapCounter();
